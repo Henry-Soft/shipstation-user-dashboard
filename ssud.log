@@ -1,0 +1,1156 @@
+[2025-07-23 18:42:45] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 1
+                    [storeName] => Demo Store A
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 2
+                    [storeName] => Demo Store B
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 3
+                    [storeName] => Demo Store C
+                )
+
+        )
+
+    [selected] => Array
+        (
+        )
+
+)
+
+[2025-07-23 18:42:53] API Key Reset: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 18:43:15] API Key Saved: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 18:43:18] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 1
+                    [storeName] => Demo Store A
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 2
+                    [storeName] => Demo Store B
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 3
+                    [storeName] => Demo Store C
+                )
+
+        )
+
+    [selected] => Array
+        (
+        )
+
+)
+
+[2025-07-23 18:49:14] API Key Reset: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 18:49:24] API Key Saved: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 18:52:42] API Key Reset: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 18:52:50] API Key Saved: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 18:56:02] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 1
+                    [storeName] => Demo Store A
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 2
+                    [storeName] => Demo Store B
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 3
+                    [storeName] => Demo Store C
+                )
+
+        )
+
+    [selected] => Array
+        (
+        )
+
+)
+
+[2025-07-23 18:57:22] API Key Reset: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 18:57:50] API Key Saved: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 18:57:50] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 1
+                    [storeName] => Demo Store A
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 2
+                    [storeName] => Demo Store B
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 3
+                    [storeName] => Demo Store C
+                )
+
+        )
+
+    [selected] => Array
+        (
+        )
+
+)
+
+[2025-07-23 19:02:08] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 98301
+                    [storeName] => - Henry Holsters (Manual)
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 269168
+                    [storeName] => - Manual (not synced)
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 271308
+                    [storeName] => ARO
+                )
+
+            [3] => Array
+                (
+                    [storeId] => 98684
+                    [storeName] => Henry Holsters
+                )
+
+            [4] => Array
+                (
+                    [storeId] => 268141
+                    [storeName] => Magnus Group
+                )
+
+            [5] => Array
+                (
+                    [storeId] => 264054
+                    [storeName] => Motis Odoo
+                )
+
+            [6] => Array
+                (
+                    [storeId] => 265425
+                    [storeName] => Motis Retail
+                )
+
+            [7] => Array
+                (
+                    [storeId] => 266899
+                    [storeName] => PHLster (BigCommerce)
+                )
+
+            [8] => Array
+                (
+                    [storeId] => 267965
+                    [storeName] => PHLster Dealers (BigCommerce)
+                )
+
+            [9] => Array
+                (
+                    [storeId] => 262584
+                    [storeName] => Warranty (PHLster)
+                )
+
+            [10] => Array
+                (
+                    [storeId] => 268281
+                    [storeName] => x - ARO (Manual)
+                )
+
+            [11] => Array
+                (
+                    [storeId] => 268284
+                    [storeName] => x - Henry OEM
+                )
+
+            [12] => Array
+                (
+                    [storeId] => 268282
+                    [storeName] => x - Motis (Manual)
+                )
+
+            [13] => Array
+                (
+                    [storeId] => 268283
+                    [storeName] => x - PHLster (Manual)
+                )
+
+            [14] => Array
+                (
+                    [storeId] => 266245
+                    [storeName] => xx - FAM Sport Belts
+                )
+
+        )
+
+    [selected] => Array
+        (
+        )
+
+)
+
+[2025-07-23 19:02:15] Stores Saved: Array
+(
+    [user] => 2
+    [stores] => Array
+        (
+            [0] => 98301
+            [1] => 269168
+            [2] => 98684
+        )
+
+)
+
+[2025-07-23 19:17:16] API Key Reset: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 19:17:23] API Key Saved: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 19:17:24] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 98301
+                    [storeName] => - Henry Holsters (Manual)
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 269168
+                    [storeName] => - Manual (not synced)
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 271308
+                    [storeName] => ARO
+                )
+
+            [3] => Array
+                (
+                    [storeId] => 98684
+                    [storeName] => Henry Holsters
+                )
+
+            [4] => Array
+                (
+                    [storeId] => 268141
+                    [storeName] => Magnus Group
+                )
+
+            [5] => Array
+                (
+                    [storeId] => 264054
+                    [storeName] => Motis Odoo
+                )
+
+            [6] => Array
+                (
+                    [storeId] => 265425
+                    [storeName] => Motis Retail
+                )
+
+            [7] => Array
+                (
+                    [storeId] => 266899
+                    [storeName] => PHLster (BigCommerce)
+                )
+
+            [8] => Array
+                (
+                    [storeId] => 267965
+                    [storeName] => PHLster Dealers (BigCommerce)
+                )
+
+            [9] => Array
+                (
+                    [storeId] => 262584
+                    [storeName] => Warranty (PHLster)
+                )
+
+            [10] => Array
+                (
+                    [storeId] => 268281
+                    [storeName] => x - ARO (Manual)
+                )
+
+            [11] => Array
+                (
+                    [storeId] => 268284
+                    [storeName] => x - Henry OEM
+                )
+
+            [12] => Array
+                (
+                    [storeId] => 268282
+                    [storeName] => x - Motis (Manual)
+                )
+
+            [13] => Array
+                (
+                    [storeId] => 268283
+                    [storeName] => x - PHLster (Manual)
+                )
+
+            [14] => Array
+                (
+                    [storeId] => 266245
+                    [storeName] => xx - FAM Sport Belts
+                )
+
+        )
+
+    [selected] => Array
+        (
+        )
+
+)
+
+[2025-07-23 19:17:31] Stores Saved: Array
+(
+    [user] => 2
+    [stores] => Array
+        (
+            [0] => 98301
+            [1] => 269168
+            [2] => 98684
+        )
+
+)
+
+[2025-07-23 19:20:59] Get On-Hold Orders: Array
+(
+    [orders] => Array
+        (
+        )
+
+    [page] => 1
+    [total_pages] => 1
+)
+
+[2025-07-23 19:26:32] Get On-Hold Orders: Array
+(
+    [orders] => Array
+        (
+        )
+
+    [page] => 1
+    [total_pages] => 1
+)
+
+[2025-07-23 19:59:18] Get On-Hold Orders: Array
+(
+    [orders] => Array
+        (
+        )
+
+    [page] => 1
+    [total_pages] => 1
+)
+
+[2025-07-23 20:04:57] Search Orders: Array
+(
+    [query] => M-100015
+    [orders_found] => 0
+)
+
+[2025-07-23 20:06:03] Get On-Hold Orders: Array
+(
+    [orders] => Array
+        (
+        )
+
+    [page] => 1
+    [total_pages] => 1
+)
+
+[2025-07-23 20:06:10] API Key Reset: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 20:06:19] API Key Saved: Array
+(
+    [user] => 2
+)
+
+[2025-07-23 20:06:19] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 98301
+                    [storeName] => - Henry Holsters (Manual)
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 269168
+                    [storeName] => - Manual (not synced)
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 271308
+                    [storeName] => ARO
+                )
+
+            [3] => Array
+                (
+                    [storeId] => 98684
+                    [storeName] => Henry Holsters
+                )
+
+            [4] => Array
+                (
+                    [storeId] => 268141
+                    [storeName] => Magnus Group
+                )
+
+            [5] => Array
+                (
+                    [storeId] => 264054
+                    [storeName] => Motis Odoo
+                )
+
+            [6] => Array
+                (
+                    [storeId] => 265425
+                    [storeName] => Motis Retail
+                )
+
+            [7] => Array
+                (
+                    [storeId] => 266899
+                    [storeName] => PHLster (BigCommerce)
+                )
+
+            [8] => Array
+                (
+                    [storeId] => 267965
+                    [storeName] => PHLster Dealers (BigCommerce)
+                )
+
+            [9] => Array
+                (
+                    [storeId] => 262584
+                    [storeName] => Warranty (PHLster)
+                )
+
+            [10] => Array
+                (
+                    [storeId] => 268281
+                    [storeName] => x - ARO (Manual)
+                )
+
+            [11] => Array
+                (
+                    [storeId] => 268284
+                    [storeName] => x - Henry OEM
+                )
+
+            [12] => Array
+                (
+                    [storeId] => 268282
+                    [storeName] => x - Motis (Manual)
+                )
+
+            [13] => Array
+                (
+                    [storeId] => 268283
+                    [storeName] => x - PHLster (Manual)
+                )
+
+            [14] => Array
+                (
+                    [storeId] => 266245
+                    [storeName] => xx - FAM Sport Belts
+                )
+
+        )
+
+    [selected] => Array
+        (
+        )
+
+)
+
+[2025-07-23 20:06:24] Stores Saved: Array
+(
+    [user] => 2
+    [stores] => Array
+        (
+            [0] => 98301
+            [1] => 269168
+            [2] => 98684
+        )
+
+)
+
+[2025-07-23 20:06:27] Get On-Hold Orders: Array
+(
+    [orders] => Array
+        (
+        )
+
+    [page] => 1
+    [total_pages] => 1
+)
+
+[2025-07-23 20:10:50] Search Orders: Array
+(
+    [query] => M-100015
+    [orders_found] => 0
+)
+
+[2025-07-23 20:13:34] Search Orders: Array
+(
+    [query] => ben@henryholsters.com
+    [orders_found] => 0
+)
+
+[2025-07-24 11:55:15] Get On-Hold Orders: Array
+(
+    [orders] => Array
+        (
+        )
+
+    [page] => 1
+    [total_pages] => 1
+)
+
+[2025-07-24 11:56:05] Search Orders: Array
+(
+    [query] => HH-37300
+    [orders_found] => 0
+)
+
+[2025-07-24 12:28:31] Search Orders: Array
+(
+    [query] => HH-37300
+    [orders_found] => 0
+)
+
+[2025-07-24 12:29:07] Get On-Hold Orders: Array
+(
+    [orders] => Array
+        (
+        )
+
+    [page] => 1
+    [total_pages] => 1
+)
+
+[2025-07-24 12:41:03] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 98301
+                    [storeName] => - Henry Holsters (Manual)
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 269168
+                    [storeName] => - Manual (not synced)
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 271308
+                    [storeName] => ARO
+                )
+
+            [3] => Array
+                (
+                    [storeId] => 98684
+                    [storeName] => Henry Holsters
+                )
+
+            [4] => Array
+                (
+                    [storeId] => 268141
+                    [storeName] => Magnus Group
+                )
+
+            [5] => Array
+                (
+                    [storeId] => 264054
+                    [storeName] => Motis Odoo
+                )
+
+            [6] => Array
+                (
+                    [storeId] => 265425
+                    [storeName] => Motis Retail
+                )
+
+            [7] => Array
+                (
+                    [storeId] => 266899
+                    [storeName] => PHLster (BigCommerce)
+                )
+
+            [8] => Array
+                (
+                    [storeId] => 267965
+                    [storeName] => PHLster Dealers (BigCommerce)
+                )
+
+            [9] => Array
+                (
+                    [storeId] => 262584
+                    [storeName] => Warranty (PHLster)
+                )
+
+            [10] => Array
+                (
+                    [storeId] => 268281
+                    [storeName] => x - ARO (Manual)
+                )
+
+            [11] => Array
+                (
+                    [storeId] => 268284
+                    [storeName] => x - Henry OEM
+                )
+
+            [12] => Array
+                (
+                    [storeId] => 268282
+                    [storeName] => x - Motis (Manual)
+                )
+
+            [13] => Array
+                (
+                    [storeId] => 268283
+                    [storeName] => x - PHLster (Manual)
+                )
+
+            [14] => Array
+                (
+                    [storeId] => 266245
+                    [storeName] => xx - FAM Sport Belts
+                )
+
+        )
+
+    [selected] => Array
+        (
+            [0] => 98301
+            [1] => 269168
+            [2] => 98684
+        )
+
+)
+
+[2025-07-24 12:41:10] Get On-Hold Orders: Array
+(
+    [orders] => Array
+        (
+        )
+
+    [page] => 1
+    [total_pages] => 1
+)
+
+[2025-07-24 12:56:24] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 98301
+                    [storeName] => - Henry Holsters (Manual)
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 269168
+                    [storeName] => - Manual (not synced)
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 271308
+                    [storeName] => ARO
+                )
+
+            [3] => Array
+                (
+                    [storeId] => 98684
+                    [storeName] => Henry Holsters
+                )
+
+            [4] => Array
+                (
+                    [storeId] => 268141
+                    [storeName] => Magnus Group
+                )
+
+            [5] => Array
+                (
+                    [storeId] => 264054
+                    [storeName] => Motis Odoo
+                )
+
+            [6] => Array
+                (
+                    [storeId] => 265425
+                    [storeName] => Motis Retail
+                )
+
+            [7] => Array
+                (
+                    [storeId] => 266899
+                    [storeName] => PHLster (BigCommerce)
+                )
+
+            [8] => Array
+                (
+                    [storeId] => 267965
+                    [storeName] => PHLster Dealers (BigCommerce)
+                )
+
+            [9] => Array
+                (
+                    [storeId] => 262584
+                    [storeName] => Warranty (PHLster)
+                )
+
+            [10] => Array
+                (
+                    [storeId] => 268281
+                    [storeName] => x - ARO (Manual)
+                )
+
+            [11] => Array
+                (
+                    [storeId] => 268284
+                    [storeName] => x - Henry OEM
+                )
+
+            [12] => Array
+                (
+                    [storeId] => 268282
+                    [storeName] => x - Motis (Manual)
+                )
+
+            [13] => Array
+                (
+                    [storeId] => 268283
+                    [storeName] => x - PHLster (Manual)
+                )
+
+            [14] => Array
+                (
+                    [storeId] => 266245
+                    [storeName] => xx - FAM Sport Belts
+                )
+
+        )
+
+    [selected] => Array
+        (
+            [0] => 98301
+            [1] => 269168
+            [2] => 98684
+        )
+
+)
+
+[2025-07-24 12:56:26] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 12:56:38] Aggregated Search Orders: Array
+(
+    [user] => 2
+    [search_type] => order
+    [query] => HH-37300
+    [total_orders] => 1
+)
+
+[2025-07-24 13:10:57] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 0
+)
+
+[2025-07-24 13:11:41] Aggregated Search Orders: Array
+(
+    [user] => 2
+    [search_type] => order
+    [query] => M-100015
+    [total_orders] => 1
+)
+
+[2025-07-24 13:12:25] Aggregated Search Orders: Array
+(
+    [user] => 2
+    [search_type] => order
+    [query] => M-100015
+    [total_orders] => 1
+)
+
+[2025-07-24 13:12:27] Aggregated Search Orders: Array
+(
+    [user] => 2
+    [search_type] => order
+    [query] => M-100015
+    [total_orders] => 1
+)
+
+[2025-07-24 13:12:31] Aggregated Search Orders: Array
+(
+    [user] => 2
+    [search_type] => order
+    [query] => M-100015
+    [total_orders] => 1
+)
+
+[2025-07-24 13:13:15] Aggregated Search Orders: Array
+(
+    [user] => 2
+    [search_type] => order
+    [query] => hh-0001
+    [total_orders] => 0
+)
+
+[2025-07-24 13:13:49] Aggregated Search Orders: Array
+(
+    [user] => 2
+    [search_type] => order
+    [query] => M-100015
+    [total_orders] => 1
+)
+
+[2025-07-24 13:25:26] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 0
+)
+
+[2025-07-24 13:25:40] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 13:27:23] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 13:27:34] Get Stores: Array
+(
+    [stores] => Array
+        (
+            [0] => Array
+                (
+                    [storeId] => 98301
+                    [storeName] => - Henry Holsters (Manual)
+                )
+
+            [1] => Array
+                (
+                    [storeId] => 269168
+                    [storeName] => - Manual (not synced)
+                )
+
+            [2] => Array
+                (
+                    [storeId] => 271308
+                    [storeName] => ARO
+                )
+
+            [3] => Array
+                (
+                    [storeId] => 98684
+                    [storeName] => Henry Holsters
+                )
+
+            [4] => Array
+                (
+                    [storeId] => 268141
+                    [storeName] => Magnus Group
+                )
+
+            [5] => Array
+                (
+                    [storeId] => 264054
+                    [storeName] => Motis Odoo
+                )
+
+            [6] => Array
+                (
+                    [storeId] => 265425
+                    [storeName] => Motis Retail
+                )
+
+            [7] => Array
+                (
+                    [storeId] => 266899
+                    [storeName] => PHLster (BigCommerce)
+                )
+
+            [8] => Array
+                (
+                    [storeId] => 267965
+                    [storeName] => PHLster Dealers (BigCommerce)
+                )
+
+            [9] => Array
+                (
+                    [storeId] => 262584
+                    [storeName] => Warranty (PHLster)
+                )
+
+            [10] => Array
+                (
+                    [storeId] => 268281
+                    [storeName] => x - ARO (Manual)
+                )
+
+            [11] => Array
+                (
+                    [storeId] => 268284
+                    [storeName] => x - Henry OEM
+                )
+
+            [12] => Array
+                (
+                    [storeId] => 268282
+                    [storeName] => x - Motis (Manual)
+                )
+
+            [13] => Array
+                (
+                    [storeId] => 268283
+                    [storeName] => x - PHLster (Manual)
+                )
+
+            [14] => Array
+                (
+                    [storeId] => 266245
+                    [storeName] => xx - FAM Sport Belts
+                )
+
+        )
+
+    [selected] => Array
+        (
+            [0] => 98301
+            [1] => 269168
+            [2] => 98684
+        )
+
+)
+
+[2025-07-24 13:36:41] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 13:37:15] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 13:37:18] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 13:37:22] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:22:20] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 14:24:16] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:24:16] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:32:00] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:32:31] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:32:47] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 14:32:52] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:32:53] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 14:32:58] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:37:32] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:38:05] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:38:08] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 14:38:19] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 14:38:21] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 15:46:40] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 15:46:42] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 15:46:47] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 15:46:49] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 15:51:55] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 15:52:03] Order Status Update Failed: {"Message":"No HTTP resource was found that matches the request URI 'http://ssapi9-internal.shipstation.com:8060/orders/860128540'.","MessageDetail":"No action was found on the controller 'Orders' that matches the name '860128540'."}
+[2025-07-24 17:11:20] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 0
+)
+
+[2025-07-24 17:11:41] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 17:12:13] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
+[2025-07-24 17:12:17] Aggregated On Hold Orders: Array
+(
+    [user] => 2
+    [total_orders] => 1
+)
+
